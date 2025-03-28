@@ -2,7 +2,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/Resseyn/jwt-auth-app.git
+   git clone https://github.com/Resseyn/auth.git
    cd jwt-auth-app
    ```
 
